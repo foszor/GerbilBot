@@ -7,4 +7,4 @@ A light-weight IRC bot with Lua 5.1.2 integration
 - Compile
 
 # Lua Scripts
-Lua script are loaded from the *executable*/lua/ folder. The only required script loaded by the bot is 'wheel.lua'; but any other scripts can be loaded using the Lua "include" function.
+Lua script are loaded from the *BinaryRoot/lua/* folder. The only required script loaded by the bot is 'wheel.lua'; but any other scripts can be loaded using the Lua "include" function.
